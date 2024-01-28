@@ -10,7 +10,8 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 | ![Angular Icon](https://img.icons8.com/color/24/000000/angularjs.png) Angular       | ![CSS Icon](https://img.icons8.com/color/24/000000/css3.png) CSS                      |
 | ![TypeScript Icon](https://img.icons8.com/color/24/000000/typescript.png) TypeScript | ![SCSS Icon](https://img.icons8.com/color/24/000000/sass.png) SCSS                    |
 | ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png) JavaScript | ![Scrum Icon](https://img.icons8.com/color/24/000000/task.png) Scrum                   |
-| ![HTML Icon](https://img.icons8.com/color/24/000000/html-5.png) HTML                 | ![Kanban Icon](https://img.icons8.com/color/24/000000/sitemap.png) Kanban                |
+| ![HTML Icon](https://img.icons8.com/color/24/000000/html-5.png) HTML                 | ![Firebase Icon](https://img.icons8.com/color/24/000000/firebase.png) Firebase        |
+
 
 
 ### 🌐 Where to Find Me
