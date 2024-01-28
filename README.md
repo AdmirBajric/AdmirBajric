@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Admir
 ![](https://media.licdn.com/dms/image/D4D16AQHlqyFgeTC_yA/profile-displaybackgroundimage-shrink_350_1400/0/1706483490100?e=1712188800&v=beta&t=MASqIvSgZmoTZjsnCVbp4CgFPoLd9GZcYI4GgAaKdnc)
 
 I'm a passionate front-end developer with a strong proficiency in crafting delightful user interfaces using a variety of technologies. My journey in the world of software development has been driven by a curiosity for creating seamless user experiences and a love for turning creative ideas into functional code.
