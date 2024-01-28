@@ -23,9 +23,9 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 
 ### 🌐 Where to Find Me
 
-- **GitHub:** [YourGitHubUsername](https://github.com/AdmirBajric)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/admir-bajric)
-- **Portfolio:** [Your Portfolio Website](https://www.admir-bajric.de)
+- **GitHub:** [GitHb](https://github.com/AdmirBajric)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/admir-bajric)
+- **Portfolio:** [Portfolio Website](https://www.admir-bajric.de)
 
 ### 📫 Let's Connect
 
