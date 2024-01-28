@@ -5,14 +5,14 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 
 ### 💻 My Skills
 
-|                                 |                                            |
+|  |  |
 | ------------------------------- | ------------------------------------------ |
 | ![Angular Icon](https://img.icons8.com/color/24/000000/angularjs.png) Angular       | ![CSS Icon](https://img.icons8.com/color/24/000000/css3.png) CSS                      |
 | ![TypeScript Icon](https://img.icons8.com/color/24/000000/typescript.png) TypeScript | ![SCSS Icon](https://img.icons8.com/color/24/000000/sass.png) SCSS                    |
 | ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png) JavaScript | ![Scrum Icon](https://img.icons8.com/color/24/000000/task.png) Scrum                   |
 | ![HTML Icon](https://img.icons8.com/color/24/000000/html-5.png) HTML                 | ![Firebase Icon](https://img.icons8.com/color/24/000000/firebase.png) Firebase        |
 | ![Git Icon](https://img.icons8.com/color/24/000000/git.png) Git                      | ![API Icon](https://img.icons8.com/color/24/000000/api.png) REST API                   |
-
+| ![Material Design Icon](https://img.icons8.com/ios/24/000000/design.png) Material Design |  |
 
 ### 🌐 Where to Find Me
 
