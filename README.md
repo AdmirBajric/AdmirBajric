@@ -5,6 +5,9 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 
 Skills: ANGULAR / TYPESCRIPT/ JS / HTML / CSS / SCSS / SCRUM / FIREBASE / GIT / REST-API / MATERIAL DESIGN
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AdmirBajric)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/admir-bajric//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.admir-bajric.de)  
+
 ### 🌐 Where to Find Me
 
 - **GitHub:** [GitHub](https://github.com/AdmirBajric)
