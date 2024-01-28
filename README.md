@@ -5,12 +5,13 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 
 ## 💻 My Skills
 
-| Left Column                    | Right Column                             |
-| ------------------------------ | ---------------------------------------- |
-| ![Angular Icon](https://img.icons8.com/color/24/000000/angularjs.png) Angular        | ![CSS Icon](https://img.icons8.com/color/24/000000/css3.png) CSS                      |
-| ![TypeScript Icon](https://img.icons8.com/color/24/000000/typescript.png) TypeScript  | ![SCSS Icon](https://img.icons8.com/color/24/000000/sass.png) SCSS                    |
-| ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png) JavaScript  | ![Scrum Icon](https://img.icons8.com/color/24/000000/task.png) Scrum                   |
-| ![HTML Icon](https://img.icons8.com/color/24/000000/html-5.png) HTML                  | ![Kanban Icon](https://img.icons8.com/color/24/000000/kanban.png) Kanban (Placeholder) |
+| Left Column                     | Right Column                               |
+| ------------------------------- | ------------------------------------------ |
+| ![Angular Icon](https://img.icons8.com/color/24/000000/angularjs.png) Angular       | ![CSS Icon](https://img.icons8.com/color/24/000000/css3.png) CSS                      |
+| ![TypeScript Icon](https://img.icons8.com/color/24/000000/typescript.png) TypeScript | ![SCSS Icon](https://img.icons8.com/color/24/000000/sass.png) SCSS                    |
+| ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png) JavaScript | ![Scrum Icon](https://img.icons8.com/color/24/000000/task.png) Scrum                   |
+| ![HTML Icon](https://img.icons8.com/color/24/000000/html-5.png) HTML                 | ![Kanban Icon](https://img.icons8.com/color/24/000000/kanban.png) Kanban                |
+
 
 ### 🌐 Where to Find Me
 
