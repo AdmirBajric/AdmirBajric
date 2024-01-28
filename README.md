@@ -1,12 +1,15 @@
-## 👋 Hello, I'm [Your Name]!
+## 👋 Hello, I'm Admir!
 
-I'm a passionate front-end developer with a keen eye for creating engaging and responsive user interfaces. My journey in the world of software development has been driven by a curiosity for crafting seamless user experiences and a love for turning creative ideas into functional code.
+I'm a passionate front-end developer with a strong proficiency in crafting delightful user interfaces using a variety of technologies. My journey in the world of software development has been driven by a curiosity for creating seamless user experiences and a love for turning creative ideas into functional code.
 
 ### 🚀 What I Do
 
-- **Front-End Development:** I specialize in building dynamic and interactive web applications using cutting-edge technologies such as HTML, CSS, and JavaScript.
+- **Front-End Development:** I specialize in building dynamic and interactive web applications using Angular, JavaScript, TypeScript, HTML, CSS, and SCSS.
 - **Responsive Design:** Ensuring that the user experience remains flawless across various devices is a top priority in my development process.
-- **User-Centric Approach:** I believe in putting the user first, emphasizing accessibility, usability, and a clean, intuitive design.
+- **Scrum Methodology:** I thrive in an agile environment, utilizing Scrum principles for effective collaboration and project management.
+- **Firebase Integration:** Leveraging the power of Firebase, I implement real-time database solutions and seamless authentication in my projects.
+- **RESTful API Development:** I design and consume RESTful APIs to connect front-end applications with back-end services.
+- **Material Design:** I incorporate Material Design principles to create modern and visually appealing interfaces.
 
 ### 💼 Professional Experience
 
@@ -14,10 +17,13 @@ I have had the privilege of working on diverse projects, collaborating with cros
 
 ### 🛠️ Tech Stack
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React.js, Vue.js
-- **Tools:** Git, GitHub, VSCode
-- **Design:** Figma, Adobe XD
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks:** Angular
+- **Styles:** SCSS
+- **Tools:** Git, GitHub, Scrum
+- **Backend Integration:** Firebase
+- **APIs:** RESTful
+- **Design:** Material Design
 
 ### 🌐 Where to Find Me
 
@@ -30,3 +36,4 @@ I have had the privilege of working on diverse projects, collaborating with cros
 I'm always open to collaboration and exploring new opportunities. Feel free to reach out if you share a passion for front-end development, user-centric design, or if you just want to connect!
 
 Looking forward to creating the next digital masterpiece together. 👨‍💻✨
+
