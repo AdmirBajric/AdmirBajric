@@ -7,17 +7,18 @@ Skills: ANGULAR / TYPESCRIPT/ JS / HTML / CSS / SCSS / SCRUM / FIREBASE / GIT / 
 
 ## 💻 My Skills
 
-- **Angular** ![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
-- **TypeScript** ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)
-- **JavaScript** ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
-- **HTML** ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
-- **CSS** ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
-- **SCSS** ![SCSS Icon](https://img.icons8.com/color/48/000000/sass.png)
-- **Scrum** ![Scrum Icon](https://img.icons8.com/color/48/000000/task.png)
-- **Firebase** ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png)
-- **Git** ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
-- **REST API** ![REST API Icon](https://img.icons8.com/color/48/000000/api.png)
-- **Material Design** ![Material Design Icon](https://img.icons8.com/color/48/000000/material.png)
+- ![Angular Icon](https://img.icons8.com/color/24/000000/angularjs.png) Angular
+- ![TypeScript Icon](https://img.icons8.com/color/24/000000/typescript.png) TypeScript
+- ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png) JavaScript
+- ![HTML Icon](https://img.icons8.com/color/24/000000/html-5.png) HTML
+- ![CSS Icon](https://img.icons8.com/color/24/000000/css3.png) CSS
+- ![SCSS Icon](https://img.icons8.com/color/24/000000/sass.png) SCSS
+- ![Scrum Icon](https://img.icons8.com/color/24/000000/task.png) Scrum
+- ![Firebase Icon](https://img.icons8.com/color/24/000000/firebase.png) Firebase
+- ![Git Icon](https://img.icons8.com/color/24/000000/git.png) Git
+- ![REST API Icon](https://img.icons8.com/color/24/000000/api.png) REST API
+- ![Material Design Icon](https://img.icons8.com/color/24/000000/material.png) Material Design
+
 
 ### 🌐 Where to Find Me
 
