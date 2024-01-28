@@ -5,6 +5,20 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 
 Skills: ANGULAR / TYPESCRIPT/ JS / HTML / CSS / SCSS / SCRUM / FIREBASE / GIT / REST-API / MATERIAL DESIGN
 
+## 💻 My Skills
+
+- **Angular** ![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
+- **TypeScript** ![TypeScript Icon](https://img.icons8.com/color/48/000000/typescript.png)
+- **JavaScript** ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript.png)
+- **HTML** ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+- **CSS** ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+- **SCSS** ![SCSS Icon](https://img.icons8.com/color/48/000000/sass.png)
+- **Scrum** ![Scrum Icon](https://img.icons8.com/color/48/000000/task.png)
+- **Firebase** ![Firebase Icon](https://img.icons8.com/color/48/000000/firebase.png)
+- **Git** ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
+- **REST API** ![REST API Icon](https://img.icons8.com/color/48/000000/api.png)
+- **Material Design** ![Material Design Icon](https://img.icons8.com/color/48/000000/material.png)
+
 ### 🌐 Where to Find Me
 
 - **GitHub:** [GitHub](https://github.com/AdmirBajric)
