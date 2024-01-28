@@ -3,7 +3,7 @@
 
 I'm a passionate front-end developer with a strong proficiency in crafting delightful user interfaces using a variety of technologies. My journey in the world of software development has been driven by a curiosity for creating seamless user experiences and a love for turning creative ideas into functional code.
 
-## 💻 My Skills
+### 💻 My Skills
 
 | Left Column                     | Right Column                               |
 | ------------------------------- | ------------------------------------------ |
@@ -11,8 +11,7 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 | ![TypeScript Icon](https://img.icons8.com/color/24/000000/typescript.png) TypeScript | ![SCSS Icon](https://img.icons8.com/color/24/000000/sass.png) SCSS                    |
 | ![JavaScript Icon](https://img.icons8.com/color/24/000000/javascript.png) JavaScript | ![Scrum Icon](https://img.icons8.com/color/24/000000/task.png) Scrum                   |
 | ![HTML Icon](https://img.icons8.com/color/24/000000/html-5.png) HTML                 | ![Firebase Icon](https://img.icons8.com/color/24/000000/firebase.png) Firebase        |
-
-
+| ![Git Icon](https://img.icons8.com/color/24/000000/git.png) Git                      | ![API Icon](https://img.icons8.com/color/24/000000/api.png) REST API                   |
 
 ### 🌐 Where to Find Me
 
