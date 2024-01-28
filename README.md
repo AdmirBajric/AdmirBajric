@@ -5,7 +5,7 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 
 ### 💻 My Skills
 
-| Left Column                     | Right Column                               |
+| 💻                              | My Skills                                 |
 | ------------------------------- | ------------------------------------------ |
 | ![Angular Icon](https://img.icons8.com/color/24/000000/angularjs.png) Angular       | ![CSS Icon](https://img.icons8.com/color/24/000000/css3.png) CSS                      |
 | ![TypeScript Icon](https://img.icons8.com/color/24/000000/typescript.png) TypeScript | ![SCSS Icon](https://img.icons8.com/color/24/000000/sass.png) SCSS                    |
