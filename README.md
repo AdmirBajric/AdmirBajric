@@ -11,10 +11,6 @@ I'm a passionate front-end developer with a strong proficiency in crafting delig
 - **RESTful API Development:** I design and consume RESTful APIs to connect front-end applications with back-end services.
 - **Material Design:** I incorporate Material Design principles to create modern and visually appealing interfaces.
 
-### 💼 Professional Experience
-
-I have had the privilege of working on diverse projects, collaborating with cross-functional teams to bring visions to life. Whether it's a sleek e-commerce platform, a captivating portfolio site, or an interactive web app, I thrive on the challenge of turning ideas into reality.
-
 ### 🛠️ Tech Stack
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
@@ -27,9 +23,9 @@ I have had the privilege of working on diverse projects, collaborating with cros
 
 ### 🌐 Where to Find Me
 
-- **GitHub:** [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- **Portfolio:** [Your Portfolio Website](https://www.yourportfoliosite.com)
+- **GitHub:** [YourGitHubUsername](https://github.com/AdmirBajric)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/admir-bajric)
+- **Portfolio:** [Your Portfolio Website](https://www.admir-bajric.de)
 
 ### 📫 Let's Connect
 
