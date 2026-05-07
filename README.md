@@ -11,22 +11,21 @@ Outside of client work, I focus on developer tooling and security research — s
 ## What I'm currently working on
 
 - A multi-language code analysis tool that detects bugs and code-level issues across a wide range of programming languages. Currently in private development.
-- - A web quality, performance and SEO analysis tool.
-  - - Production work in Ruby on Rails, React and Next.js, with a focus on reliability and well-tested code.
-   
-    - ## Tech stack
-   
-    - - **Languages:** TypeScript, JavaScript, Ruby
-      - - **Backend:** Ruby on Rails, Node.js
-        - - **Frontend:** React, Next.js
-          - - **Security:** Static analysis, penetration testing, OWASP
-            - - **Workflow:** Git, Claude Code, AI-augmented development
-             
-              - ## Get in touch
-             
-              - - Website — admir-bajric.de
-                - - LinkedIn — in/admir-bajric
-                  - - Location — Germany
-                   
-                    - Open to collaborations around developer tooling and application security.
-                    - 
+- A web quality, performance and SEO analysis tool.
+- Production work in Ruby on Rails, React and Next.js, with a focus on reliability and well-tested code.
+
+## Tech stack
+
+- **Languages:** TypeScript, JavaScript, Ruby
+- **Backend:** Ruby on Rails, Node.js
+- **Frontend:** React, Next.js
+- **Security:** Static analysis, penetration testing, OWASP
+- **Workflow:** Git, Claude Code, AI-augmented development
+
+## Get in touch
+
+- Website — admir-bajric.de
+- LinkedIn — in/admir-bajric
+- Location — Germany
+
+Open to collaborations around developer tooling and application security.
